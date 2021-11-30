@@ -1,6 +1,7 @@
 .movies {
     color: magenta;
     font-size: larger;
+    border: solid;
 }
 
 h3 {
